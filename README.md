@@ -1,4 +1,6 @@
-# ddd
+# Local JSON file to JavaScript Object
+
+### See result in console
 
 ## Project setup
 ```
